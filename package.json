@@ -1,0 +1,19 @@
+{
+  "name": "react-datepicker-small",
+  "version": "0.0.1",
+  "description": "date,picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "ec:ho \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "picker"
+  ],
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/ql9075/react-datepicker-small.git"
+  },
+  "author": "EllisonLi",
+  "license": "MIT"
+}
